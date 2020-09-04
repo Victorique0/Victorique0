@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Woshi
+我是胡启华，就读于福州大学，预计2022年毕业
+我会C++ java 但是了解的都不是很深 今后会不断努力学习
+我的邮箱是631183765@qq.com 欢迎给我发邮件 一起交流学习
