@@ -46,4 +46,4 @@ jobs:
 
     - name: run
       run: |
-        python GHAnalysis.py
+        python3 1.py
