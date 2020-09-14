@@ -58,7 +58,7 @@ class Date:
 class Run:
     def __init__(self):
         self.parser = argparse.ArgumentParser()
-        self.parser.add_argument('-i', '--init')
+        self.parser.add_argument('-i', '--init',type=str)
         self.parser.add_argument('-u', '--user',type=str)
         self.parser.add_argument('-r', '--repo',type=str)
         self.parser.add_argument('-e', '--event',type=str)
